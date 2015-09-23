@@ -1,0 +1,7 @@
+name: GTA_Case
+version: 1.0
+description: awd
+main: Trubby.co.th.case_prac
+author: Tub
+commands:
+  casep:
